@@ -1,0 +1,17 @@
+button {
+  cursor: pointer;
+  text-align: center;
+  padding: 20px;
+  background-color: #fed90f;
+  border: solid 2px #000;
+  border-radius: 20px;
+  font-weight: bold;
+  width: 60%;
+  font-size: 1.5em;
+}
+button:hover {
+  background-color: #ffe600;
+}
+.container {
+  text-align: center;
+}
